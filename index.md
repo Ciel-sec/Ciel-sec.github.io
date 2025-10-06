@@ -105,10 +105,10 @@
 
       <img class="avatar" src="https://i.imgur.com/kOXnswR.gif" alt="Ciel acenando">
       
-        <p><h1 style="margin:0">Olá, eu sou o Ciel</h1></div>
-        <p>Desenvolvo automações, UIs e ferramentas de segurança para **laboratórios/escopos autorizados**.  
-           Gosto de código limpo, logs, testes e design com propósito.</p>
-        <p class="muted">⚠️ Nada de dados sensíveis por aqui. Chaves de API e credenciais ficam sempre em variáveis de ambiente.</p></div>
+<center> <h1 style="margin:0">Olá, eu sou o Ciel </h1></center>
+<center><p>Desenvolvo automações, UIs e ferramentas de segurança para **laboratórios/escopos autorizados**.  
+Gosto de código limpo, logs, testes e design com propósito.</p></center>
+        <center> <p class="muted">⚠️ Nada de dados sensíveis por aqui. Chaves de API e credenciais ficam sempre em variáveis de ambiente.</p></center>
         <div style="margin-top:.8rem">
           <a class="btn" href="#projects">Ver projetos</a>
           <a class="btn ghost" href="https://github.com/Ciel-sec" target="_blank" rel="noreferrer">GitHub</a>
