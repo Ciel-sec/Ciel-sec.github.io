@@ -106,7 +106,7 @@
   <section id="intro" class="hero">
     <div class="container intro">
       <img class="avatar" src="https://i.imgur.com/kOXnswR.gif" alt="Ciel acenando">
-      <div>
+      <center><div>
         <p></p><h1 style="margin:0">Olá, eu sou o Ciel</h1></div>
         <p>Desenvolvo automações, UIs e ferramentas de segurança para **laboratórios/escopos autorizados**.  
            Gosto de código limpo, logs, testes e design com propósito.</p>
@@ -116,7 +116,7 @@
           <a class="btn ghost" href="https://github.com/Ciel-sec" target="_blank" rel="noreferrer">GitHub</a>
         </div>
       </div>
-    </div>
+    </div></center>
   </section>
 
   <!-- Projetos -->
