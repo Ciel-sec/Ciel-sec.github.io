@@ -112,7 +112,8 @@ Gosto de código limpo, logs, testes e design com propósito.</p></center>
         <div style="margin-top:.8rem">
           <a class="btn" href="#projects">Ver projetos</a>
           <a class="btn ghost" href="https://github.com/Ciel-sec" target="_blank" rel="noreferrer">GitHub</a>
-
+        </div>
+        
 
   <!-- Projetos -->
   <section id="projects">
