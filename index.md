@@ -107,7 +107,7 @@
     <div class="container intro">
       <img class="avatar" src="https://i.imgur.com/kOXnswR.gif" alt="Ciel acenando">
       <div>
-        <h1 style="margin:0">Olá, eu sou o Ciel</h1>
+        <p></p><h1 style="margin:0">Olá, eu sou o Ciel</h1></div>
         <p>Desenvolvo automações, UIs e ferramentas de segurança para **laboratórios/escopos autorizados**.  
            Gosto de código limpo, logs, testes e design com propósito.</p>
         <p class="muted">⚠️ Nada de dados sensíveis por aqui. Chaves de API e credenciais ficam sempre em variáveis de ambiente.</p>
